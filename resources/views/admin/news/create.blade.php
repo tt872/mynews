@@ -7,7 +7,7 @@
 
 {{-- admin.blade.phpの@yield('content')に以下のタグを埋め込む --}}
 @section('content')
-    <div class="container">
+    <div class="container">https://tech-boost-prod.s3.amazonaws.com/uploads/book_image/content/318/d3895e63-aad3-4c70-9c9b-5f7730110195.jpg
         <div class="row">
             <div class="col-md-8 mx-auto">
                 <h2>ニュース新規作成</h2>
